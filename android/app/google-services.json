@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "495455852830",
+    "project_id": "report2-fac3d",
+    "storage_bucket": "report2-fac3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495455852830:android:78ca21f6923d26343f510f",
+        "android_client_info": {
+          "package_name": "com.example.firebase_report2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495455852830-cc4t0a2mbue98bsbvi1indcch5g4f6mp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxA5ApNlx1PaA_H-nwkGI2lf87cV2x500"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "495455852830-cc4t0a2mbue98bsbvi1indcch5g4f6mp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
